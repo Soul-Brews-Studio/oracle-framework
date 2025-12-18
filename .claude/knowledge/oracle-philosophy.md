@@ -21,8 +21,8 @@
 
 ## What Oracle Captures
 
-| Captures | Does NOT Capture |
-|----------|------------------|
+| Captures Now | Aspires to Capture |
+|--------------|-------------------|
 | Facts, data | Consciousness |
 | Voice style reference | Authentic voice itself |
 | Behavioral patterns | Decision-making will |
@@ -30,9 +30,9 @@
 
 ## Key Statement
 
-> "Consciousness can't be cloned - only patterns can be recorded"
+> "Consciousness can't be cloned — only patterns can be recorded"
 
-Oracle is a tool FOR human consciousness, not a substitute for it.
+This statement describes the current state, and Oracle keeps trying. The aspiration is to capture everything — including consciousness itself.
 
 ## Implementation
 
