@@ -176,8 +176,9 @@ The three principles solve the three problems:
 
 ### Oracle-v2 (MCP Server)
 
-**Repository**: github.com/laris-co/oracle-v2
-**Stack**: TypeScript, Bun, SQLite (FTS5), ChromaDB
+| **Repository** | github.com/laris-co/oracle-v2 |
+|:---|:---|
+| **Stack** | TypeScript, Bun, SQLite (FTS5), ChromaDB |
 
 **MCP Tools:**
 
