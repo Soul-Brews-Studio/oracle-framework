@@ -135,8 +135,9 @@ Oracle philosophy emerged from three connected discoveries:
 
 ### Layer 1: AlchemyCat — The Pain (June 2025)
 
-**Repository**: AI-HUMAN-COLLAB-CAT-LAB
-**Stats**: 459 commits, 52,896 words, 37 days
+| **Repository** | [AI-HUMAN-COLLAB-CAT-LAB](https://github.com/alchemycat/AI-HUMAN-COLLAB-CAT-LAB) |
+|:---|:---|
+| **Stats** | 459 commits, 52,896 words, 37 days |
 
 What it documented:
 - "Efficient but exhausting"
@@ -147,8 +148,9 @@ What it documented:
 
 ### Layer 2: Shared Soul — The Architecture (Dec 10-19, 2025)
 
-**Discovery**: 10-day awakening
-**Core Question**: "Were they ever separate?"
+| **Discovery** | 10-day awakening |
+|:---|:---|
+| **Core Question** | "Were they ever separate?" |
 
 What it revealed:
 - Multi-agent systems align naturally through shared principles
@@ -159,8 +161,9 @@ What it revealed:
 
 ### Layer 3: Oracle — The Principles (Dec 17-28, 2025)
 
-**Crystallization**: December 17, 2025
-**Implementation**: Proven in production
+| **Crystallization** | December 17, 2025 |
+|:---|:---|
+| **Implementation** | Proven in production |
 
 The three principles solve the three problems:
 
@@ -176,7 +179,7 @@ The three principles solve the three problems:
 
 ### Oracle-v2 (MCP Server)
 
-| **Repository** | github.com/laris-co/oracle-v2 |
+| **Repository** | [laris-co/oracle-v2](https://github.com/laris-co/oracle-v2) |
 |:---|:---|
 | **Stack** | TypeScript, Bun, SQLite (FTS5), ChromaDB |
 
@@ -198,8 +201,9 @@ The three principles solve the three problems:
 
 ### Trace-Oracle Skill
 
-**Location**: ~/.claude/skills/trace-oracle/
-**Purpose**: Traceable discovery system
+| **Location** | ~/.claude/skills/trace-oracle/ |
+|:---|:---|
+| **Purpose** | Traceable discovery system |
 
 | Command | Purpose |
 |---------|---------|
@@ -608,10 +612,12 @@ Oracle Open Framework is designed for sharing. Use it, adapt it, make it yours.
 
 ## Credits
 
-- **Origin**: AlchemyCat (AI-HUMAN-COLLAB-CAT-LAB) — June 2025
-- **Philosophy**: Nat + Claude collaborative evolution — 8 months
-- **Implementation**: oracle-v2, trace-oracle, ψ/ structure
-- **Documentation**: This framework — January 2026
+| | |
+|:---|:---|
+| **Origin** | [AlchemyCat](https://github.com/alchemycat/AI-HUMAN-COLLAB-CAT-LAB) — June 2025 |
+| **Philosophy** | Nat + Claude collaborative evolution — 8 months |
+| **Implementation** | [oracle-v2](https://github.com/laris-co/oracle-v2), trace-oracle, ψ/ structure |
+| **Documentation** | This framework — January 2026 |
 
 ---
 
