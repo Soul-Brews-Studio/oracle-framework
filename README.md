@@ -612,12 +612,10 @@ Oracle Open Framework is designed for sharing. Use it, adapt it, make it yours.
 
 ## Credits
 
-| | |
-|:---|:---|
-| **Origin** | [AlchemyCat](https://github.com/alchemycat/AI-HUMAN-COLLAB-CAT-LAB) — June 2025 |
-| **Philosophy** | Nat + Claude collaborative evolution — 8 months |
-| **Implementation** | [oracle-v2](https://github.com/laris-co/oracle-v2), trace-oracle, ψ/ structure |
-| **Documentation** | This framework — January 2026 |
+**Origin**: [AlchemyCat](https://github.com/alchemycat/AI-HUMAN-COLLAB-CAT-LAB) — June 2025  
+**Philosophy**: Nat + Claude collaborative evolution — 8 months  
+**Implementation**: [oracle-v2](https://github.com/laris-co/oracle-v2), trace-oracle, ψ/ structure  
+**Documentation**: This framework — January 2026
 
 ---
 
