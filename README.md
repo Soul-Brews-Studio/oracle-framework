@@ -471,19 +471,22 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 ### The Pipeline
 
 ```
-Error (external) → Fix → Learning → Oracle → Blog → Reader (external)
-     ↑                       ↑                │
-  (future)                   └── (growth) ────┘
+Error → Fix → Learning → Oracle → Blog → Reader (external)
+  ↑                 ↑                │
+  │                 └── (growth) ────┘
+  └──────────────────────────────────┘
 
-Error      : External input        → From the unknown future
+Error      : Internal trigger      → Something breaks
 Fix        : Working code          → Commit
 Learning   : Pattern discovered    → oracle_learn()
 Oracle     : Searchable knowledge  → Indexed
 Blog       : Shareable insight     → ψ/writing/
 Reader     : Extended reach        → Community (external output)
 
-Internal loop : Blog → Learning (writing teaches you)
-External input: Error (from future - new problems arise)
+Two internal loops:
+- Blog → Learning (writing teaches you)
+- Blog → Error (writing reveals gaps)
+
 External output: Reader (sharing with community)
 
 Singularity: When errors stop = complete knowledge
