@@ -470,14 +470,16 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 
 ### The Pipeline
 
-| Stage | Output | Tool |
-|-------|--------|------|
-| Error | Raw frustration | Log it |
-| Fix | Working code | Commit |
-| Learning | Pattern | `oracle_learn()` |
-| Oracle | Searchable | Indexed |
-| Blog | Shareable | ψ/writing/ |
-| Reader | Extended reach | Community |
+```
+Error → Fix → Learning → Oracle → Blog → Reader
+
+Error      : Raw frustration    → Log it
+Fix        : Working code       → Commit
+Learning   : Pattern            → oracle_learn()
+Oracle     : Searchable         → Indexed
+Blog       : Shareable          → ψ/writing/
+Reader     : Extended reach     → Community
+```
 
 ### Key Quote
 
