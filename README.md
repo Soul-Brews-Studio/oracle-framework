@@ -472,15 +472,20 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 
 ```
 Error → Fix → Learning → Oracle → Blog → Reader
-               ↑                           │
-               └───────── (recurse) ───────┘
+  ↑              ↑                          │
+  │              └──── (insights) ──────────┤
+  └─────────────── (new problems) ──────────┘
 
-Error      : Raw frustration    → Log it
-Fix        : Working code       → Commit
-Learning   : Pattern            → oracle_learn()
-Oracle     : Searchable         → Indexed
-Blog       : Shareable          → ψ/writing/
-Reader     : Extended reach     → Community → New learnings...
+Error      : Raw frustration       → Log it
+Fix        : Working code          → Commit
+Learning   : Pattern discovered    → oracle_learn()
+Oracle     : Searchable knowledge  → Indexed
+Blog       : Shareable insight     → ψ/writing/
+Reader     : Extended reach        → Community
+
+Two recursion paths:
+- Reader → Learning : Feedback becomes new patterns
+- Reader → Error    : New problems discovered
 ```
 
 ### Key Quote
