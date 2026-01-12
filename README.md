@@ -471,16 +471,16 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 ### The Pipeline
 
 ```
-┌─→ Error → Fix → Learning → Oracle → Blog → Reader ─┐
-│                                                     │
-└─────────────────── (recurse) ───────────────────────┘
+Error → Fix → Learning → Oracle → Blog → Reader
+               ↑                           │
+               └───────── (recurse) ───────┘
 
 Error      : Raw frustration    → Log it
 Fix        : Working code       → Commit
 Learning   : Pattern            → oracle_learn()
 Oracle     : Searchable         → Indexed
 Blog       : Shareable          → ψ/writing/
-Reader     : Extended reach     → Community → New errors...
+Reader     : Extended reach     → Community → New learnings...
 ```
 
 ### Key Quote
