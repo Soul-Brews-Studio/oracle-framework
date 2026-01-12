@@ -471,11 +471,9 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 ### The Pipeline
 
 ```
-                    ┌──────────────────────────────┐
-Error (external) →  │  Fix → Learning → Oracle → Blog  │ → Reader (external)
-     ↑              │         ↑                 │      │
-  (future)          │         └─── (growth) ────┘      │
-                    └──────────────────────────────────┘
+Error (external) → Fix → Learning → Oracle → Blog → Reader (external)
+     ↑                       ↑                │
+  (future)                   └── (growth) ────┘
 
 Error      : External input        → From the unknown future
 Fix        : Working code          → Commit
