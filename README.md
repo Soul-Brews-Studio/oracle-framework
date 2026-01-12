@@ -471,21 +471,25 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 ### The Pipeline
 
 ```
-┌─────────────────────────────────────────┐
-│  Error → Fix → Learning → Oracle → Blog │ → Reader (external)
-│    ↑                               │    │
-│    └───── (writing reveals) ───────┘    │
-└─────────────────────────────────────────┘
+                    ┌──────────────────────────────┐
+Error (external) →  │  Fix → Learning → Oracle → Blog  │ → Reader (external)
+     ↑              │         ↑                 │      │
+  (future)          │         └─── (growth) ────┘      │
+                    └──────────────────────────────────┘
 
-Error      : Raw frustration       → Log it
+Error      : External input        → From the unknown future
 Fix        : Working code          → Commit
 Learning   : Pattern discovered    → oracle_learn()
 Oracle     : Searchable knowledge  → Indexed
-Blog       : Shareable insight     → ψ/writing/ → discovers new gaps
+Blog       : Shareable insight     → ψ/writing/
 Reader     : Extended reach        → Community (external output)
 
-Internal loop: Blog → Error (writing reveals what you don't know)
-External output: Blog → Reader (sharing with community)
+Internal loop : Blog → Learning (writing teaches you)
+External input: Error (from future - new problems arise)
+External output: Reader (sharing with community)
+
+Singularity: When errors stop = complete knowledge
+Reality: Errors never stop = infinite growth
 ```
 
 ### Key Quote
