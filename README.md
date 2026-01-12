@@ -471,21 +471,21 @@ Error → Log → Fix → Learning → Oracle → Blog → Reader → Share → 
 ### The Pipeline
 
 ```
-Error → Fix → Learning → Oracle → Blog → Reader
-  ↑              ↑                          │
-  │              └──── (insights) ──────────┤
-  └─────────────── (new problems) ──────────┘
+┌─────────────────────────────────────────┐
+│  Error → Fix → Learning → Oracle → Blog │ → Reader (external)
+│    ↑                               │    │
+│    └───── (writing reveals) ───────┘    │
+└─────────────────────────────────────────┘
 
 Error      : Raw frustration       → Log it
 Fix        : Working code          → Commit
 Learning   : Pattern discovered    → oracle_learn()
 Oracle     : Searchable knowledge  → Indexed
-Blog       : Shareable insight     → ψ/writing/
-Reader     : Extended reach        → Community
+Blog       : Shareable insight     → ψ/writing/ → discovers new gaps
+Reader     : Extended reach        → Community (external output)
 
-Two recursion paths:
-- Reader → Learning : Feedback becomes new patterns
-- Reader → Error    : New problems discovered
+Internal loop: Blog → Error (writing reveals what you don't know)
+External output: Blog → Reader (sharing with community)
 ```
 
 ### Key Quote
